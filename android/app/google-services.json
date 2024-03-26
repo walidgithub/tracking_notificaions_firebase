@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826562664729",
+    "project_id": "mapsandnotifications-e7425",
+    "storage_bucket": "mapsandnotifications-e7425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826562664729:android:5d1afd8356498a7b8b0d88",
+        "android_client_info": {
+          "package_name": "com.example.maps_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHGK2dAzhhMb5g683P2PwfH2MRRyxkZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
